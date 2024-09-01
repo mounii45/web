@@ -1,6 +1,9 @@
 body{
     margin:0;
-    background-color:hsl(212, 93%, 12%);
+     background-image: url("https://www.pixel4k.com/wp-content/uploads/2024/01/after-sunset-minimal-2024-4k-3840x2160_1705278513.jpg.webp");
+   
+   background-repeat: no-repeat;
+   background-size: cover;
 
 }
 .cont{
