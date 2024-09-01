@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    background-color:hsl(212, 93%, 12%);
+
+}
+.cont{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:200px;
+}
+
+.box{
+    height:200px;
+    width:200px;
+    color: hsl(212, 45%, 89%);
+
+    font-size:100px;
+    text-align: center;
+}
+
+.nam{
+    text-align: center;font-size: 50px;color:hsl(212, 45%, 89%);
+    position:absolute;
+    bottom: 10px;
+    left: 580px;
+    text-align: center;
+}
