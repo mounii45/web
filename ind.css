@@ -1,0 +1,13 @@
+body{
+   
+    font-family: Consolas, Courier, monospace;
+    background-color: black;
+    color: #60fb60;
+    font-size: 60px;
+    text-align: center;
+  }
+  .cont{
+    position: absolute;
+   top:200px;
+   left:100px;
+  }
