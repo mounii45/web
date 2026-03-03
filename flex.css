@@ -1,6 +1,10 @@
 body{
     margin: 0;
+<<<<<<< HEAD
     background-image: url(bg.jpg);
+=======
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2024/01/after-sunset-minimal-2024-4k-3840x2160_1705278513.jpg.webp");
+>>>>>>> 27114d3d3dcd49a54d3ff10066461c8a4b73d1b9
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
